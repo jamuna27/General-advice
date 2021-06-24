@@ -1,2 +1,2 @@
 # General-advice
-This file offersadvice on the coding journey for newbies
+This file offers advice on the coding journey for newbies
